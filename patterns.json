@@ -1,0 +1,19 @@
+{
+  "version": "auto",
+  "sigs": {
+    "task_scheduler": "48 8B 0D ?? ?? ?? ?? 48 85 C9 74 ?? E8"
+  },
+  "task_scheduler_rel": 3,
+  "task_scheduler_instr": 7,
+  "scheduler_job_list": 80,
+  "job_name": 16,
+  "job_data_model": 232,
+  "instance_children_vec": 120,
+  "instance_name": 72,
+  "instance_parent": 88,
+  "part_cframe": 336,
+  "humanoid_walkspeed": 424,
+  "humanoid_jumppower": 432,
+  "camera_cframe": 336,
+  "camera_fov": 528
+}

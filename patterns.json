@@ -1,10 +1,11 @@
 {
-  "version": "auto",
-  "sigs": {
-    "task_scheduler": "48 8B 0D ?? ?? ?? ?? 48 85 C9 74 ?? E8"
-  },
+  "version": "2026.10.16",
+  "task_scheduler": "48 8B 0D ?? ?? ?? ?? 48 85 C9 74 ?? E8",
   "task_scheduler_rel": 3,
   "task_scheduler_instr": 7,
+  "render_job": "?? ?? ?? ?? 52 65 6E 64 65 72 4A 6F 62",
+  "render_job_rel": 0,
+  "render_job_instr": 0,
   "scheduler_job_list": 80,
   "job_name": 16,
   "job_data_model": 232,
